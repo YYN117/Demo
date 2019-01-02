@@ -1,0 +1,911 @@
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//10839290539.html'>
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10839290539.html'>
+松下（Panasonic） 多门冰箱618升NR-W620TG-XW风冷无霜节能1大容量【图片 价格 品牌 报价】-京东
+鹏展电器专营店
+16580.00
+100
+*******************
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//25749220593.html'>
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/25749220593.html'>
+【二手99新】折扣机美菱BCD-601WPCX大容量对开门风冷无霜变频冰箱601升【图片 价格 品牌 报价】-京东
+众合优品家电专营店
+2999.00
+2
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//27422324684.html'>
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 33), match='item.jd.com//7363100.html'>
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 33), match='item.jd.com//3139496.html'>
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com//1746657566.html'>
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3130047.html'>
+【海尔EG8014HB39GU1】海尔（Haier) 滚筒洗衣机全自动 8公斤变频 洗烘一体 智能APP控制 防霉抗菌窗垫EG8014HB39GU1【行情 报价 价格 评测】-京东
+海尔京东自营旗舰店
+3599.00
+99000
+*******************
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/8623319.html'>
+【海尔BCD-453WDVS】海尔( Haier) 453升无霜变频四门冰箱 冷藏三档变温 新国标一级节能 双直开式抽屉 BCD-453WDVS【行情 报价 价格 评测】-京东
+海尔京东自营旗舰店
+5199.00
+1600
+*******************
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//25058192440.html'>
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/25058192440.html'>
+美的（Midea）239升 风冷无霜 电脑控温 三门家用电冰箱 格调金 BCD-239WTGM  239升三开门风冷【图片 价格 品牌 报价】-京东
+美的小天鹅嘉又明专卖店
+2999.00
+0
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/24218541209.html'>
+美的 Midea/ BD/BC-103KGM冰柜103升家用小型单温冷冻冷藏面板冷柜 BD/BC-103KGM 103L 冰柜【图片 价格 品牌 报价】-京东
+美的小天鹅嘉又明专卖店
+1298.00
+0
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//26654360103.html'>
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 33), match='item.jd.com//3721123.html'>
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3721123.html'>
+【海信BCD-321WT/Q】海信 (Hisense) 321升 法式多门电冰箱 风冷无霜 电脑控温 家用节能静音 四门冰箱 BCD-321WT/Q【行情 报价 价格 评测】-京东
+海信冰洗京东自营旗舰店
+4599.00
+1100
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//11741128916.html'>
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1289883.html'>
+【澳柯玛BC/BD-208HNE】澳柯玛（AUCMA）208升冷藏冷冻转换变温冷柜 冰柜 BC/BD-208HNE【行情 报价 价格 评测】-京东
+澳柯玛冰洗京东自营旗舰店
+999.00
+32000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1387906.html'>
+【星星BD/BC-107JE】星星（XINGX） 107升 家用冷柜 微霜系统 欧式直角 冷藏冷冻转换冷柜 单温单箱冰箱 BD/BC-107JE【行情 报价 价格 评测】-京东
+星星冷柜京东自营旗舰店
+899.00
+7600
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10350703209.html'>
+欢呼好太太消毒柜 高温碗筷 立式大容量家用商用厨房消毒碗柜台式 E 51 198L 高1.220米 黑色款【图片 价格 品牌 报价】-京东
+嘉仕利电器专营店
+568.00
+2300
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/11805636597.html'>
+德玛仕（DEMASHI） 【送货入户】消毒柜 家用 立式 厨房商用 茶杯消毒碗柜 大容量保洁柜双开门 中温-ZTP380H-1A【图片 价格 品牌 报价】-京东
+德玛仕官方旗舰店
+1399.00
+14000
+*******************
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3247835.html'>
+【老板727消毒柜】老板（Robam）二星级 100升 五重净化嵌入式消毒柜 碗柜 ZTD100B-727【行情 报价 价格 评测】-京东
+老板电器京东自营旗舰店
+2000.00
+21000
+*******************
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3783554.html'>
+【康佳BCD-642WEGX5S】康佳（KONKA）642升 风冷无霜 电脑双循环 节能保鲜 对开门冰箱（金色）BCD-642WEGX5S【行情 报价 价格 评测】-京东
+康佳冰箱洗衣机京东自营旗舰店
+2999.00
+1500
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/4231206.html'>
+【海信BD/BC-143NA/B】海信 (Hisense) 143升 小型家用冰柜 冷藏冷冻转换柜 母乳小冰箱 节能静音单温冷柜 BD/BC-143NA/B【行情 报价 价格 评测】-京东
+海信冰洗京东自营旗舰店
+899.00
+4700
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1869106.html'>
+【容声BCD-165MB】容声(Ronshen) 165升 冰柜家用商用 大冷冻小冷藏双温双箱冷柜 大容量 节能 卧式冰箱 BCD-165MB【行情 报价 价格 评测】-京东
+容声冰箱洗衣机自营旗舰店
+1099.00
+11000
+*******************
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1331212.html'>
+【海尔BC/BD-318HD】海尔（Haier） 318升 商用冰箱 卧式大冷冻柜 冷藏冷冻转换柜 变温冷柜 冰柜 BC/BD-318HD【行情 报价 价格 评测】-京东
+海尔京东自营旗舰店
+1599.00
+36000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1978017.html'>
+【美的BCD-220VM(E)】美的(Midea)220升 家用商用冰柜 双箱双温冷柜 蝶形门侧掀门 左冷藏右冷冻 (妙趣金) BCD-220VM(E)【行情 报价 价格 评测】-京东
+美的冰箱京东自营旗舰店
+1199.00
+42000
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10782725808.html'>
+万宝（Wanbao）办公室台式小型迷你杯子茶具茶杯消毒柜 小高温 28升高温豪华款杯柜系列【图片 价格 品牌 报价】-京东
+万宝宝贵专卖店
+288.00
+4500
+*******************
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/28201730485.html'>
+德玛仕（DEMASHI）家用毛巾消毒柜 商用 紫外线杀菌 衣服衣物拖鞋加热消毒柜 美容院洗浴会所专用 热风循环ZTP910Y-1【图片 价格 品牌 报价】-京东
+德玛仕消毒柜旗舰店
+1999.00
+2900
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10920113112.html'>
+西门子（SIEMENS） 66L 专业级智能家用嵌入式电烤箱 HB331E3W【图片 价格 品牌 报价】-京东
+西门子家电瀛旭专卖店
+3999.00
+600
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/15927520057.html'>
+方太（FOTILE）嵌入式蒸箱家用大容量蒸箱E2S【图片 价格 品牌 报价】-京东
+方太厨卫旗舰店
+6590.00
+100
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/12571585779.html'>
+迪博尼（D·Boni） 迪博尼SD嵌入式烤箱 家用镶嵌式嵌入式电烤箱 内嵌式多功能家用【图片 价格 品牌 报价】-京东
+迪博尼旗舰店
+1690.00
+200
+*******************
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/12553522520.html'>
+尊驰（ZUNCHI） Z601 嵌入式蒸箱家用 纯电蒸箱电蒸炉蒸汽炉 黑色【图片 价格 品牌 报价】-京东
+尊驰厨电旗舰店
+2889.00
+100
+*******************
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 31), match='item.jd.com/755238.html'>
+【星星LSC-236C】星星（XINGX） 236升 立式冷柜 防凝雾玻璃门 陈列柜 饮料柜 商用冷藏冰箱（银灰色） LSC-236C【行情 报价 价格 评测】-京东
+星星冷柜京东自营旗舰店
+1399.00
+11000
+*******************
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1240138.html'>
+【海尔FCD-178XHT】海尔（Haier） 178升 大冷冻小冷藏 双箱双温区冰柜 卧式冰箱 家用商用二合一 冷柜 FCD-178XHT【行情 报价 价格 评测】-京东
+海尔京东自营旗舰店
+1249.00
+5600
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/6380457.html'>
+【康宝QE01X】康宝(Canbo) 8升四季控温型 经济适用 强排式燃气热水器(液化气)JSQ16-QE01X【行情 报价 价格 评测】-京东
+康宝京东自营旗舰店
+698.00
+800
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 35), match='item.jd.com/1425576218.html'>
+康星（konse） RTP50-A立式消毒柜家用壁挂式消毒碗柜茶杯茶具小【图片 价格 品牌 报价】-京东
+康星官方旗舰店
+359.00
+600
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/2209959.html'>
+【史密斯DR60】史密斯（A.O.Smith）60升 金圭内胆 速热节能型 电热水器 DR60【行情 报价 价格 评测】-京东
+AO史密斯京东自营旗舰店
+2628.00
+99000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/2209969.html'>
+【史密斯DR80】史密斯（A.O.Smith）80升 金圭内胆 速热节能型 电热水器 DR80【行情 报价 价格 评测】-京东
+AO史密斯京东自营旗舰店
+2928.00
+99000
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/33950542250.html'>
+中浪 蒸箱嵌入式烤箱蒸箱一体机二合一家用大容量蒸烤箱35L 钢琴黑【图片 价格 品牌 报价】-京东
+中浪旗舰店
+3299.00
+50
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3494259.html'>
+【美的X1】美的（Midea）80升数显 健康抑菌预约洗浴电热水器F8021-X1(S)【行情 报价 价格 评测】-京东
+美的热水器京东自营旗舰店
+1269.00
+80000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3924930.html'>
+【美的X1】美的（Midea）60升数显 健康抑菌预约洗浴电热水器F6021-X1(S)【行情 报价 价格 评测】-京东
+美的热水器京东自营旗舰店
+1049.00
+80000
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/17982364438.html'>
+美的（Midea） 嵌入式 智能保温抽屉TCN14J6N-SS 伯爵绅士爵士系列通用【图片 价格 品牌 报价】-京东
+美的嵌入式旗舰店
+2099.00
+20
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 31), match='item.jd.com/906257.html'>
+【星星BCD-195E】星星（XINGX） 195升 左冷冻右冷藏 双箱双温冰柜 卧式冰箱 家用商用二合一 顶开门冷柜 BCD-195E【行情 报价 价格 评测】-京东
+星星冷柜京东自营旗舰店
+999.00
+17000
+*******************
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/16499777290.html'>
+现代（HYUNDAI） 现代消毒柜家用台式碗柜小型茶杯消毒柜立式餐具消毒柜奶瓶柜臭氧消毒 ZTP-38升（T02-38黑）特价【图片 价格 品牌 报价】-京东
+今旺电器专营店
+-1.00
+2200
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10621496642.html'>
+康宝（Canbo） 消毒柜 商用 立式双门 饭店酒店保洁柜  食堂餐厅 商用 消毒碗柜 700A-2(银灰色经典款）【图片 价格 品牌 报价】-京东
+康宝旗舰店
+1999.00
+2100
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/29739639286.html'>
+西门子（SIEMENS）嵌入式蒸箱烤箱 蒸烤组合套装CD634GBS3W+CB635GBS1W【图片 价格 品牌 报价】-京东
+西门子家电官方旗舰店
+19499.00
+2
+*******************
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/7527082.html'>
+【美的WQP8-W3908J-CN】美的（Midea）爵士嵌入式蒸烤箱 三合一家用电蒸箱烤箱 智能8套除菌嵌入式洗碗机套装 JS-SS+W3908J【行情 报价 价格 评测】-京东
+美的厨房电器京东自营旗舰店
+8199.00
+13000
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/31942475984.html'>
+老板（Robam） 【悦界系列】高端嵌入式烤箱蒸箱蒸烤组合套装R073+S273【图片 价格 品牌 报价】-京东
+老板电器官方旗舰店
+9780.00
+0
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 33), match='item.jd.com//4749681.html'>
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//28978057290.html'>
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/23550267369.html'>
+艾美特（AIRMATE）电风扇静音台立扇家用变频学生落地扇遥控7片风叶 机械款【图片 价格 品牌 报价】-京东
+夏朵电器专营店
+588.00
+60
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//10257918879.html'>
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/4483862.html'>
+【格力FD-4010-WG】格力风扇g5 se 五叶机械/落地扇/电风扇  FD-4010-WG【行情 报价 价格 评测】-京东
+格力·TOSOT生活电器京东自营旗舰店
+219.00
+180000
+*******************
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 31), match='item.jd.com/755385.html'>
+【美菱BC/BD-98DT】美菱(MELING) 98升 单温冰柜 冷藏冷冻转换冷柜 迷你家用小冷柜 单温冰箱 卧式冰箱 BC/BD-98DT【行情 报价 价格 评测】-京东
+美菱冰箱洗衣机京东自营旗舰店
+699.00
+22000
+*******************
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3917696.html'>
+【奥克斯KFR-35GW/PLA1+3】奥克斯（AUX）正1.5匹 定速冷暖 WIFI智能 京东微联APP控制 空调挂机(KFR-35GW/PLA1+3)【行情 报价 价格 评测】-京东
+奥克斯空调京东自营旗舰店
+1999.00
+20000
+*******************
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3328597.html'>
+【康星RTP23-B】康星（konse）RTP23-B 二星级 23L 家用/商用立式消毒柜 高温消毒碗柜【行情 报价 价格 评测】-京东
+康星京东自营旗舰店
+299.00
+1100
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1770185.html'>
+【华帝i13011消毒柜】华帝（VATTI）100升 多模式消毒 独立控温 二星级嵌入式消毒柜/碗柜 ZTD100-i13011【行情 报价 价格 评测】-京东
+华帝京东自营旗舰店
+2199.00
+8200
+*******************
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1227726.html'>
+【方太40QE】方太（FOTILE）100升 U光源杀菌 家用嵌入式消毒柜/碗柜 ZTD100F-40QE【行情 报价 价格 评测】-京东
+方太京东自营旗舰店
+3390.00
+1900
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3051715.html'>
+【万家乐8M2】万家乐 8升四季控温型 经济适用 燃气热水器(天然气)JSQ16-8M2【行情 报价 价格 评测】-京东
+万家乐厨卫京东自营旗舰店
+698.00
+26000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3893857.html'>
+【格力FD-4025h5-WG】格力（GREE）FD-4025h5-WG 五叶机械落地扇/电风扇【行情 报价 价格 评测】-京东
+格力·TOSOT生活电器京东自营旗舰店
+-1.00
+2900
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/27832753637.html'>
+维肯 手持小风扇迷你户外随身便携式usb可充电静音大风力 小电风扇办公室学生桌面宿舍台式小电扇 粉色【三档强劲风力★升级静音版】带底座【图片 价格 品牌 报价】-京东
+维肯旗舰店
+29.90
+37000
+*******************
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/14544280850.html'>
+辰佳 （Changer )BC/BD(W)-100 100升家用小型冰柜冷藏冷冻转换冷柜 黄色【图片 价格 品牌 报价】-京东
+辰佳旗舰店
+558.00
+8900
+*******************
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10954376598.html'>
+美的（Midea） 电热水器21WB1系列+5升小厨宝套餐 60升电热水器F60-21WB1(E) 5L下出水【图片 价格 品牌 报价】-京东
+美的热水器旗舰店
+1568.00
+30
+*******************
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/12203004361.html'>
+【领劵立减20】尊威（JOUE）立式消毒柜 台式小家用消毒碗柜 C008拉丝红38L 限量售完即止【图片 价格 品牌 报价】-京东
+尊威旗舰店
+238.00
+7400
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/16500001794.html'>
+金正（NINTAUS） 台式消毒柜/家用小型茶杯消毒柜/立式餐具消毒奶瓶柜碗柜 ZTP-38升（E02-38黑）特价【图片 价格 品牌 报价】-京东
+今旺电器专营店
+208.00
+1400
+*******************
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/15278389933.html'>
+吉美斯顿（Meisdun）10升12升燃气热水器天然气热水器液化气热水器煤气热水器燃气家用恒温热水器 智能恒温-10L-上门安装 天然气【图片 价格 品牌 报价】-京东
+吉美斯顿旗舰店
+828.00
+500
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/11828782653.html'>
+韩宝（HANBAO）燃气热水器家用煤气热水器天然气液化气强排式即热速热式节能家用DSY02 8升-天然气DSY02 不包安装【图片 价格 品牌 报价】-京东
+韩宝官方旗舰店
+468.00
+1500
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 35), match='item.jd.com/1586894073.html'>
+斯帝博（starborn） 5.5/6千瓦即热式小厨宝上出水恒温厨房电热水器即热家用下出水迷你厨宝 智能变频恒温款(上下出水皆可 免费安装) D6T(0-5.5kw 需2.5平方专线)【图片 价格 品牌 报价】-京东
+斯帝博热水器旗舰店
+1525.00
+700
+*******************
+<_sre.SRE_Match object; span=(8, 31), match='item.jd.com/380054.html'>
+【澳柯玛BCD-160C】澳柯玛（AUCMA）160升双温双箱冷柜 冰柜  BCD-160C(NE)【行情 报价 价格 评测】-京东
+澳柯玛冰洗京东自营旗舰店
+979.00
+10000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1236664.html'>
+【阿里斯顿J3】阿里斯顿（ARISTON）电热水器 60升 钛金四层胆 双管三档加热 AL60E2.5J3【行情 报价 价格 评测】-京东
+阿里斯顿热水器京东自营旗舰店
+1198.00
+7300
+*******************
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1275975.html'>
+【奥特朗DSF8316-70】奥特朗（otlan）即热式电热水器 恒温变频 DSF8316-70 7KW【需4平方专线】【行情 报价 价格 评测】-京东
+奥特朗京东自营旗舰店
+1580.00
+21000
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/15158544203.html'>
+凡萨帝（Fasato） 消毒柜 家用立式小消毒碗柜 商用台式高温保洁柜 60L 单门中温毛巾柜【图片 价格 品牌 报价】-京东
+凡萨帝旗舰店
+130.00
+800
+*******************
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10427144494.html'>
+帅人（sazn） 帅人(sazn)消毒柜 家用/商用消毒碗柜 立式 中温保洁柜 RTP50-H08 金色【图片 价格 品牌 报价】-京东
+帅人旗舰店
+229.00
+1500
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/22477001307.html'>
+双赛（SHUANGSAI） 燃气热水器天然气 液化气即热强排煤气热水器铜水箱液化气家用 8升强排大屏款 液化气【图片 价格 品牌 报价】-京东
+双赛旗舰店
+-1.00
+400
+*******************
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1151841.html'>
+【海尔BC/BD-142HT】海尔（Haier） 142升家用冰柜 冷藏冷冻转换柜 冷柜 节能单温冰箱 BC/BD-142HT【行情 报价 价格 评测】-京东
+海尔京东自营旗舰店
+1099.00
+29000
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/21678561585.html'>
+享派 消毒柜家用立式双门小型不锈钢柜式迷你台式消毒碗柜商用 M02-78升【图片 价格 品牌 报价】-京东
+享派旗舰店
+298.00
+700
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/18165018922.html'>
+韩宝（HANBAO）燃气热水器煤气热水器 天然气液化气热水器强排式即热速热式节能家用 8升-强排式Y03（罐装液化气） 不包安装【图片 价格 品牌 报价】-京东
+韩宝官方旗舰店
+378.00
+3300
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/10277896717.html'>
+奇田（Qitian）6升8升强排式热水器 燃气热水器液化气JSQ12 JSQ16热水器天然气稳压 6升02款 上门安装天然气12T【图片 价格 品牌 报价】-京东
+奇田旗舰店
+498.00
+3200
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 38), match='item.jd.com//100001124516.html'>
+None
+None
+<_sre.SRE_Match object; span=(8, 33), match='item.jd.com//6340782.html'>
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//34140969902.html'>
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//16706732787.html'>
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//34374430785.html'>
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//29872211235.html'>
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/29872211235.html'>
+西泠 132L双开门小冰箱 迷你家用宿舍办公室冰箱保鲜 双门小型节能两门电冰箱 BCD-132 闪亮银【图片 价格 品牌 报价】-京东
+西泠友拉专卖店
+629.00
+40
+*******************
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//30504462217.html'>
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1175389.html'>
+【西门子KM40FA60TI】西门子（SIEMENS） 454升 变频混冷无霜多门冰箱 零度保鲜 旋转制冰盒（银色）BCD-454W(KM40FA60TI)【行情 报价 价格 评测】-京东
+西门子家电京东自营旗舰店
+8299.00
+13000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1840264.html'>
+【三星RH60J8132WW/SC】三星（SAMSUNG）627升大容量变频风冷无霜对开门冰箱 蝶门 LED内显 原装进口RH60J8132WW(白)【行情 报价 价格 评测】-京东
+三星家电京东自营旗舰店
+13900.00
+100
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 37), match='item.jd.com//11778301411.html'>
+<_sre.SRE_Match object; span=(8, 36), match='item.jd.com/11778301411.html'>
+海尔 (Haier)洗衣机10KG公斤大容量变频静音节能全自动家用滚筒洗衣机G100818BG 金色【图片 价格 品牌 报价】-京东
+海尔好迪专卖店
+2399.00
+3600
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/4682153.html'>
+【小天鹅TBM90-7188WIDCLG】小天鹅（LittleSwan）9公斤变频波轮全自动洗衣机 智能投放 水魔方龙旋风水流 TBM90-7188WIDCLG【行情 报价 价格 评测】-京东
+小天鹅洗衣机京东自营旗舰店
+4699.00
+200
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/4682189.html'>
+【小天鹅TBM100-7188WIDCLEG】小天鹅（LittleSwan）10公斤变频波轮全自动洗衣机 精准智投龙旋风水流 TBM100-7188WIDCLEG【行情 报价 价格 评测】-京东
+小天鹅洗衣机京东自营旗舰店
+5999.00
+100
+*******************
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3444159.html'>
+【比佛利BVL1D100G6】比佛利（BEVERLY）小天鹅洗衣机 出品 滚筒洗衣机全自动 洗烘一体机 10公斤变频BVL1D100G6【行情 报价 价格 评测】-京东
+比佛利京东自营旗舰店
+13999.00
+0
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/3444175.html'>
+【比佛利BVL1G100G6】比佛利（BEVERLY）小天鹅洗衣机 出品 滚筒洗衣机全自动 智能洗衣管家 10公斤变频 BVL1G100G6【行情 报价 价格 评测】-京东
+比佛利京东自营旗舰店
+12998.00
+0
+*******************
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1760128.html'>
+【西门子WM12U4C00W】西门子（SIEMENS） 9公斤 变频全自动滚筒洗衣机  isensoric智感 加速节能 XQG90-WM12U4C00W【行情 报价 价格 评测】-京东
+西门子家电京东自营旗舰店
+4399.00
+13000
+*******************
+None
+None
+<_sre.SRE_Match object; span=(8, 32), match='item.jd.com/1760134.html'>
+【博世XQG80-WDG244601W】博世（BOSCH） 8公斤 洗烘一体变频 滚筒洗衣机 低噪音 除菌 高低温（白色）XQG80-WDG244601W【行情 报价 价格 评测】-京东
+博世家电冰洗京东自营旗舰店
+4399.00
+15000
+*******************
+None
+None
+None
+None
+None
+None
+None
